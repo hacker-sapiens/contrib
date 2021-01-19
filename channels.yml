@@ -1609,3 +1609,7 @@ channels:
     link: https://www.youtube.com/playlist?list=PL0GZqLzm_wsXE9TiQHGenqaCb7qIBm5fK
     playlistId: PL0GZqLzm_wsXE9TiQHGenqaCb7qIBm5fK
     category: conference    
+
+ - name: Showtime Z
+    link: https://www.youtube.com/channel/UC0mcujMDS8N419B4WJHJBtw
+    category: conference    
